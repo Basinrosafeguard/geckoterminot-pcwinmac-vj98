@@ -1,4 +1,4 @@
-# 
+# 即时 geckoterminal sniper bot 插件 Mac OS版 | 专业 geckoterminal sniper bot 插件 PC Windows版。集成 DEX路由器集成 和 捆绑执行，跨平台性能最大化。
 
 
 
